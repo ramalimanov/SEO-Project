@@ -13,4 +13,3 @@ Improving SEO strategy:
 *Usinng good and readable color.
 *Try to use only one H1 tag each page.
 
-https://ramalimanov.github.io/SEO-Design-Webpage/
