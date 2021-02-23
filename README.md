@@ -13,4 +13,7 @@
 * Usinng good and readable color.
 * Try to use only one H1 tag each page.
 
+<<<<<<< HEAD
 https://ramalimanov.github.io/SEO-Project/
+=======
+>>>>>>> 35ad06b2292bac7ceffdf68cf42d8f9e444b548b
