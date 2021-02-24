@@ -736,6 +736,9 @@ h1 {
 h4 {
     color: #333333!important;
 }
+pre {
+    visibility: hidden;
+}
 
 .icons {
     margin-bottom: 14px;
